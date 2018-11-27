@@ -1,24 +1,45 @@
 
+
++ [Anomaly Detection / Predictive Alerting](# Anomaly-Detection-/-Predictive-Alerting)
++ [Root Cause Analysis](#Root-Cause-Analysis)
++ [Performance Tuning]()
++ [Issue Clustering / Categorization]()
++ [Duplicate / Recurring Issues Identification]()
++ [Software Testing]()
++ [Logging]()
++ [Tracing]()
++ [Log Parsing]()
++ [Log Compression]()
++ [Empirical Studies]()
+
+
+
+
+### Anomaly Detection / Predictive Alerting
+
+1. [**IEEE Access'18**] An Integrated Method for Anomaly Detection From Massive System Logs
+
+### Root Cause Analysis
+
+### Performance Tuning
+
+### Issue Clustering / Categorization
+
+### Duplicate / Recurring Issues Identification
+
+
+### Software Testing
+
+1. [**ASE'18**] An Automated Approach to Estimating Code Coverage Measures via Execution Logs
+
 ### Logging
 
 ### Tracing
 
 ### Log Parsing
 
-### Anomaly Detection
-1. [**IEEE Access'18**] An Integrated Method for Anomaly Detection From Massive System Logs
-
-### Failure Prediction
-
-### Issue Clustering
-
-### Duplicate Issue Identification
-
 ### Log Compression
 
-### Software Testing
-
-1. [**ASE'18**] An Automated Approach to Estimating Code Coverage Measures via Execution Logs
 
 ### Empirical Studies
 
