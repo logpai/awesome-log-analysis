@@ -1,16 +1,16 @@
 
 
-+ [Anomaly Detection / Predictive Alerting](# Anomaly-Detection-/-Predictive-Alerting)
-+ [Root Cause Analysis](#Root-Cause-Analysis)
-+ [Performance Tuning]()
-+ [Issue Clustering / Categorization]()
-+ [Duplicate / Recurring Issues Identification]()
-+ [Software Testing]()
-+ [Logging]()
-+ [Tracing]()
-+ [Log Parsing]()
-+ [Log Compression]()
-+ [Empirical Studies]()
++ [Anomaly Detection / Predictive Alerting](#anomaly-detection--predictive-alerting)
++ [Root Cause Analysis](#root-cause-analysis)
++ [Performance Tuning](#performance-tuning)
++ [Issue Clustering / Categorization](#issue-clustering--categorization)
++ [Duplicate / Recurring Issues Identification](#duplicate--recurring-issues-identification)
++ [Software Testing](#software-testing)
++ [Logging](#logging)
++ [Tracing](#tracing)
++ [Log Parsing](#log-parsing)
++ [Log Compression](#log-compression)
++ [Empirical Studies](#empirical-studies)
 
 
 
