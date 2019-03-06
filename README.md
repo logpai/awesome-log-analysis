@@ -23,7 +23,7 @@ A curated list of awesome publications and researchers on log analysis, anomaly 
 
 ## Researchers
 + China (and Hong Kong)
-    + [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/) (CUHK) | [Dongmei Zhang](https://www.microsoft.com/en-us/research/people/dongmeiz/) (Microsoft) | [Zibin Zheng](http://www.zibinzheng.com/) (SYSU) | 
+    + [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/) (CUHK) | [Dongmei Zhang](https://www.microsoft.com/en-us/research/people/dongmeiz/) (Microsoft) | [Zibin Zheng](http://www.zibinzheng.com/) (SYSU) | [Dan Pei](https://netman.aiops.org/~peidan/) (Tsinghua) | 
 + USA
     + [Dawson Engler](http://web.stanford.edu/~engler/) (Stanford) | [Ben Liblit](http://pages.cs.wisc.edu/~liblit/#bug-isolation) (WISC)
 + Canada
