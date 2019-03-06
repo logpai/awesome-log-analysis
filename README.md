@@ -37,19 +37,19 @@ A curated list of awesome publications and researchers on log analysis, anomaly 
 Logs are a type of valuable data generated from many sources such as software, systems, networks, devices, etc. They have also been used for a number of tasks related to reliability, security, performance, and energy. Therefore, the research of log analysis has attracted interests from different research areas.
 
 + **System area**
-    + Conferences: OSDI | SOSP | ATC | EuroSys | ICDCS
+    + Conferences: [OSDI](https://www.usenix.org/conference/osdi18)| [SOSP](https://sosp19.rcs.uwaterloo.ca/)| [ATC](https://www.usenix.org/conference/atc19)| [EuroSys](https://www.eurosys2019.org/)| [ICDCS](https://theory.utdallas.edu/ICDCS2019/)
     + Journals: TC | TOCS | TPDS
 + **Network area**
-    + Conferences: NSDI | INFOCOMM 
+    + Conferences: [NSDI](https://www.usenix.org/conference/nsdi19)| [INFOCOMM](https://www.infocommshow.org/)
     + Journals: TON
 + **Software engineering area**
-    + Conferences: ICSE | FSE | ASE
+    + Conferences: [ICSE](https://conf.researchr.org/home/icse-2019)| [FSE](https://www.esec-fse.org/)| [ASE](https://2019.ase-conferences.org/)
     + Journals: TSE | TOSEM 
 + **Reliability area**
-    + Conferences: DSN | ISSRE | SRDS
+    + Conferences: [DSM](https://dsmconferenceblog.wordpress.com/)| [ISSRE](http://2019.issre.net/)| [SRDS](https://srds2019.projet.liris.cnrs.fr/)
     + Journals: TDSC | TR
 + **Security area**
-    + Conferences: CCS | DSN
+    + Conferences: [CCS](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=83847)| [DSN](http://www.dsn.org/)
     + Journals: TDSC
 + **Industrial conferences**
     + [SREcon](https://www.usenix.org/conferences/byname/925) | [GOPS](https://www.bagevent.com/event/GOPS2019-shenzhen?bag_track=bagevent)
