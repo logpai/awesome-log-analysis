@@ -1,50 +1,63 @@
+# Papers
 
-
-+ [Anomaly Detection / Predictive Alerting](#anomaly-detection--predictive-alerting)
++ [Survey Papers](#Survey-Papers)
++ [Anomaly Detection](#anomaly-detection)
++ [Failure Prediction](#Failure-Prediction)
 + [Root Cause Analysis](#root-cause-analysis)
-+ [Performance Tuning](#performance-tuning)
-+ [Issue Clustering / Categorization](#issue-clustering--categorization)
-+ [Duplicate / Recurring Issues Identification](#duplicate--recurring-issues-identification)
++ [Performance Issues](#performance-issues)
++ [Energy Issues](#Energy-Issues)
++ [Security Issues](#Security-Issues)
++ [Issue Categorization](#issue-categorization)
++ [Duplicate Issues Identification](#duplicate-issues-identification)
 + [Software Testing](#software-testing)
-+ [Logging](#logging)
-+ [Tracing](#tracing)
++ [Bug Finding](#Bug-Finding)
++ [Logging Practices](#logging-practices)
++ [Tracing Practices](#tracing-practices)
 + [Log Parsing](#log-parsing)
 + [Log Compression](#log-compression)
 + [Empirical Studies](#empirical-studies)
++ [Industrial Talks](#Industrial-Talks)
 
+### Survey Papers
 
+### Anomaly Detection
+1. [**IEEE Access'18**] [An Integrated Method for Anomaly Detection From Massive System Logs](https://ieeexplore.ieee.org/document/8371223), by Zhaoli Liu, Tao Qin, Xiaohong Guan, Hezhi Jiang, Chenxu Wang.
+1. [NOMS'18] [An Unsupervised Framework for Detecting Anomalous Messages from Syslog Log Files](https://ccdcoe.org/uploads/2018/11/Tech-Reserach-Paper-on-Log-Anomaly_oct-2018_Bernhards-Blumbergs-Kont.pdf), by Risto Vaarandi, Bernhards Blumbergs, Markus Kont.
+1. [**ISSRE'17**] [Experience Report: Log Mining using Natural Language Processing and Application to Anomaly Detection](https://hal.laas.fr/hal-01576291/document), by Christophe Bertero, Matthieu Roy, Carla Sauvanaud and Gilles Tredan.
+1. [**ISSRE'16**] [Experience Report: System Log Analysis for Anomaly Detection](https://jiemingzhu.github.io/pub/slhe_issre2016.pdf), by Shilin He, Jieming Zhu, Pinjia He, Michael R. Lyu. 
 
-
-### Anomaly Detection / Predictive Alerting
-
-1. [**IEEE Access'18**] An Integrated Method for Anomaly Detection From Massive System Logs
+### Failure Prediction
 
 ### Root Cause Analysis
 
-### Performance Tuning
+### Performance Issues
+### Energy Issues
+### Security Issues
 
-### Issue Clustering / Categorization
+### Issue Categorization
+1. [**IWQoS'18**] [Device-Agnostic Log Anomaly Classification with Partial Labels](https://aiops.org/wp-content/uploads/2018/06/Device_Agnostic_Log_Anomaly_Classification.pdf), by Weibin Meng, Ying Liu, Shenglin Zhang, Dan Pei, Hui Dong, Lei Song, Xulong Luo. [**Baidu**]
+1. [**BigData'17**] [WEAC: Word Embeddings for Anomaly Classification from Event Logs](https://ieeexplore.ieee.org/document/8258034), by Amit Pande, Vishal Ahuja. [**Target Corporation**]
 
-### Duplicate / Recurring Issues Identification
+### Duplicate Issues Identification
 
 
 ### Software Testing
 
 1. [**ASE'18**] An Automated Approach to Estimating Code Coverage Measures via Execution Logs
 
-### Logging
+### Bug Finding
 
-### Tracing
+### Logging Practices
+
+### Tracing Practices
 
 ### Log Parsing
+1. [**DSN'16**] [An Evaluation Study on Log Parsing and Its Use in Log Mining](https://jiemingzhu.github.io/pub/pjhe_dsn2016.pdf), by Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu.
 
 ### Log Compression
 
 
 ### Empirical Studies
+1. [**DSN'07**] [What Supercomputers Say: A Study of Five System Logs](http://ieeexplore.ieee.org/document/4273008/), by Adam J. Oliner, Jon Stearley.
 
-1. [**DSN'16**] Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu. An Evaluation Study on Log Parsing and Its Use in Log Mining. IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2016.
-
-1. [**ISSRE'16**] Shilin He, Jieming Zhu, Pinjia He, Michael R. Lyu. Experience Report: System Log Analysis for Anomaly Detection. IEEE International Symposium on Software Reliability Engineering (ISSRE), 2016.
-
-1. [**DSN'07**] Adam J. Oliner, Jon Stearley. [What Supercomputers Say: A Study of Five System Logs](http://ieeexplore.ieee.org/document/4273008/). IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2007. [[Bibtex]()]
+### Industrial Talks
