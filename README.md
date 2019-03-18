@@ -47,7 +47,7 @@ Logs are a type of valuable data generated from many sources such as software, s
     + Conferences: [ICSE](https://conf.researchr.org/home/icse-2019)| [FSE](https://www.esec-fse.org/)| [ASE](https://2019.ase-conferences.org/)
     + Journals: [TSE](https://www.computer.org/web/tse)| [TOSEM](https://tosem.acm.org/)
 + **Reliability area**
-    + Conferences: [DSM](https://dsmconferenceblog.wordpress.com/)| [ISSRE](http://2019.issre.net/)| [SRDS](https://srds2019.projet.liris.cnrs.fr/)
+    + Conferences: [DSN](https://dsmconferenceblog.wordpress.com/)| [ISSRE](http://2019.issre.net/)| [SRDS](https://srds2019.projet.liris.cnrs.fr/)
     + Journals: [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)| [TR](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
 + **Security area**
     + Conferences: [CCS](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=83847)| [DSN](http://www.dsn.org/)
