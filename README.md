@@ -30,6 +30,7 @@ A curated list of awesome publications and researchers on log analysis, anomaly 
 | **Canada** |
 | [Ding Yuan](http://www.eecg.toronto.edu/~yuan/Home.html), Toronto | [Weiyi Shang](https://users.encs.concordia.ca/~shang/), Concordia |
 | **UK** |
+| [Zhen Ming (Jack) Jiang](http://www.cse.yorku.ca/~zmjiang/), York |
 | **Europe** |
 | **Australia** |
 | [Ingo Weber](https://people.csiro.au/W/I/Ingo-Weber), CSIRO |
