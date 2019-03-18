@@ -28,7 +28,7 @@ A curated list of awesome publications and researchers on log analysis, anomaly 
 | **USA** |
 | [Dawson Engler](http://web.stanford.edu/~engler/), Stanford | [Ben Liblit](http://pages.cs.wisc.edu/~liblit/#bug-isolation), Wisconsin–Madison |
 | **Canada** |
-| [Ding Yuan](http://www.eecg.toronto.edu/~yuan/Home.html), Toronto | [Weiyi Shang](https://users.encs.concordia.ca/~shang/), Concordia |
+| [Ding Yuan](http://www.eecg.toronto.edu/~yuan/Home.html), Toronto | [Ahmed E. Hassan](http://research.cs.queensu.ca/~ahmed/home/), Queen's | [Weiyi Shang](https://users.encs.concordia.ca/~shang/), Concordia |
 | **UK** |
 | [Zhen Ming (Jack) Jiang](http://www.cse.yorku.ca/~zmjiang/), York |
 | **Europe** |
