@@ -24,3 +24,4 @@
 
 ### Canada
 + [Ding Yuan, University of Toronto](http://www.eecg.toronto.edu/~yuan/Home.html)
++ [Zhen Ming (Jack) Jiang, York University](http://www.cse.yorku.ca/~zmjiang/index.html)
