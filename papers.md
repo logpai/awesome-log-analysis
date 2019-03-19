@@ -1,9 +1,10 @@
 # Papers
 
 + [Survey Papers](#Survey-Papers)
++ [Industrial Talks](#Industrial-Talks)
 + [Anomaly Detection](#anomaly-detection)
 + [Failure Prediction](#Failure-Prediction)
-+ [Failure Diagnosis/ Debugging](#Failure-Diagnosis---Debugging)
++ [Failure Diagnosis/ Debugging](#failure-diagnosis-debugging)
 + [Performance Issues](#performance-issues)
 + [Energy Issues](#Energy-Issues)
 + [Security Issues](#Security-Issues)
@@ -16,7 +17,6 @@
 + [Log Parsing](#log-parsing)
 + [Log Compression](#log-compression)
 + [Empirical Studies](#empirical-studies)
-+ [Industrial Talks](#Industrial-Talks)
 
 ### Survey Papers
 
