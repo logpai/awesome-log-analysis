@@ -3,7 +3,7 @@
 + [Survey Papers](#Survey-Papers)
 + [Anomaly Detection](#anomaly-detection)
 + [Failure Prediction](#Failure-Prediction)
-+ [Root Cause Analysis](#root-cause-analysis)
++ [Failure Diagnosis/ Debugging](#Failure-Diagnosis---Debugging)
 + [Performance Issues](#performance-issues)
 + [Energy Issues](#Energy-Issues)
 + [Security Issues](#Security-Issues)
