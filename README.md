@@ -57,9 +57,9 @@ Logs are a type of valuable data generated from many sources such as software, s
 + **Security area**
     + Conferences: [CCS](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=83847) | [DSN](http://www.dsn.org/)
     + Journals: [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
-+ **AI area**
-    + Conferences: [KDD] | [ICDE] | [CIKM]
-    + Journals: [TKDE]
++ **AI and Bigdata area**
+    + Conferences: [KDD] | [ICDE] | [CIKM] | [BigData]
+    + Journals: [TKDE] | [TBD]
 + **Industrial conferences**
     + [SREcon](https://www.usenix.org/conferences/byname/925) | [GOPS](https://www.bagevent.com/event/GOPS2019-shenzhen?bag_track=bagevent)
 
