@@ -1,3 +1,5 @@
+<p align="center"> <a href="https://github.com/logpai"> <img src="https://github.com/logpai/logpai.github.io/blob/master/img/logpai_logo.jpg" width="425"></a></p>
+
 # Awesome Log Analysis
 A curated list of awesome publications and researchers on log analysis, anomaly detection, fault localization, and AIOps.
 
