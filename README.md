@@ -42,26 +42,26 @@ A curated list of awesome publications and researchers on log analysis, anomaly 
 Logs are a type of valuable data generated from many sources such as software, systems, networks, devices, etc. They have also been used for a number of tasks related to reliability, security, performance, and energy. Therefore, the research of log analysis has attracted interests from different research areas.
 
 + **System area**
-    + Conferences: [OSDI](https://www.usenix.org/conference/osdi18) | [SOSP](https://sosp19.rcs.uwaterloo.ca/)| [ATC](https://www.usenix.org/conference/atc19)| [ICDCS](https://theory.utdallas.edu/ICDCS2019/)
-    + Journals: [TC](https://www.computer.org/csdl/journal/tc) | [TOCS](https://tocs.acm.org/)| [TPDS](https://www.computer.org/web/tpds)
+    + Conferences: [OSDI](https://dblp.uni-trier.de/db/conf/osdi/index) | [SOSP](https://dblp.uni-trier.de/db/conf/sosp/index) | [ATC](https://dblp.uni-trier.de/db/conf/usenix/index) | [ICDCS](https://dblp.uni-trier.de/db/conf/icdcs/index)
+    + Journals: [TC](https://dblp.uni-trier.de/db/journals/tc/index.html) | [TOCS](https://dblp.uni-trier.de/db/journals/tocs/index) | [TPDS](https://dblp.uni-trier.de/db/journals/tpds/index.html)
 + **Cloud computing area**
-    + Conferences: [SoCC] | [CLOUD]
-    + Journals: [TCC]
-+ **Network area**
-    + Conferences: [NSDI](https://www.usenix.org/conference/nsdi19) | [INFOCOMM](https://www.infocommshow.org/)
-    + Journals: [TON](https://ton.lids.mit.edu/)
+    + Conferences: [SoCC](https://dblp.uni-trier.de/db/conf/cloud/index.html) | [CLOUD](https://dblp.uni-trier.de/db/conf/IEEEcloud/index)
+    + Journals: [TCC](https://dblp.uni-trier.de/db/journals/tcc/index.html)
++ **Networking area**
+    + Conferences: [NSDI](https://dblp.uni-trier.de/db/conf/nsdi/index) | [INFOCOMM](https://dblp.uni-trier.de/db/conf/infocom/index)
+    + Journals: [TON](https://dblp.uni-trier.de/db/journals/ton/index.html)
 + **Software engineering area**
-    + Conferences: [ICSE](https://conf.researchr.org/home/icse-2019) | [FSE](https://www.esec-fse.org/) | [ASE](https://2019.ase-conferences.org/)
-    + Journals: [TSE](https://www.computer.org/web/tse) | [TOSEM](https://tosem.acm.org/)
+    + Conferences: [ICSE](https://dblp.uni-trier.de/db/conf/icse/index) | [FSE](https://dblp.uni-trier.de/db/conf/sigsoft/index) | [ASE](https://dblp.org/db/conf/kbse/index.html)
+    + Journals: [TSE](https://dblp.org/db/journals/tse/index) | [TOSEM](https://dblp.uni-trier.de/db/journals/tosem/index)
 + **Reliability area**
-    + Conferences: [DSN](https://dsmconferenceblog.wordpress.com/) | [ISSRE](http://2019.issre.net/)| [SRDS](https://srds2019.projet.liris.cnrs.fr/)
+    + Conferences: [DSN](https://dblp.uni-trier.de/db/conf/dsn/index) | [ISSRE](https://dblp.uni-trier.de/db/conf/issre/index.html) | [SRDS](https://dblp.uni-trier.de/db/conf/srds/index)
     + Journals: [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) | [TR](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
 + **Security area**
     + Conferences: [CCS](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=83847) | [DSN](http://www.dsn.org/)
-    + Journals: [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
+    + Journals: [TDSC](https://dblp.uni-trier.de/db/journals/tdsc/index.html)
 + **AI and Bigdata area**
-    + Conferences: [KDD] | [ICDE] | [CIKM] | [BigData]
-    + Journals: [TKDE] | [TBD]
+    + Conferences: [KDD](https://dblp.uni-trier.de/db/conf/kdd/index) | [CIKM](https://dblp.uni-trier.de/db/conf/cikm/index) | [ICDM](https://dblp.uni-trier.de/db/conf/icdm/index) | [BigData](https://dblp.org/db/conf/bigdataconf/index)
+    + Journals: [TKDE](https://dblp.uni-trier.de/db/journals/tkde/index) | [TBD](https://dblp.uni-trier.de/db/journals/tbd/index.html)
 + **Industrial conferences**
     + [SREcon](https://www.usenix.org/conferences/byname/925) | [GOPS](https://www.bagevent.com/event/GOPS2019-shenzhen?bag_track=bagevent)
 
