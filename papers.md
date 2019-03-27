@@ -21,6 +21,7 @@
 ### Survey Papers
 
 ### Anomaly Detection
+1. [**BigData'18**] [Evaluation of Distributed Machine Learning Algorithms for Anomaly Detection from Large-Scale System Logs: A Case Study](https://ieeexplore.ieee.org/document/8621967), by Merve Astekin, Harun Zengin, Hasan Sözer.
 1. [**OSDI'18**] [Capturing and Enhancing In Situ System Observability for Failure Detection](https://www.usenix.org/conference/osdi18/presentation/huang), by Peng Huang, Chuanxiong Guo, Jacob R. Lorch, Lidong Zhou, Yingnong Dang. [**ByteDance, Microsoft**]
 1. [**IEEE Access'18**] [An Integrated Method for Anomaly Detection From Massive System Logs](https://ieeexplore.ieee.org/document/8371223), by Zhaoli Liu, Tao Qin, Xiaohong Guan, Hezhi Jiang, Chenxu Wang.
 1. [**NOMS'18**] [An Unsupervised Framework for Detecting Anomalous Messages from Syslog Log Files](https://ccdcoe.org/uploads/2018/11/Tech-Reserach-Paper-on-Log-Anomaly_oct-2018_Bernhards-Blumbergs-Kont.pdf), by Risto Vaarandi, Bernhards Blumbergs, Markus Kont.
