@@ -42,7 +42,8 @@
 1. [**BigData'17**] [WEAC: Word Embeddings for Anomaly Classification from Event Logs](https://ieeexplore.ieee.org/document/8258034), by Amit Pande, Vishal Ahuja. [**Target Corporation**]
 
 ### Duplicate Issues Identification
-
+1. [**DSN'14**] [Mining Historical Issue Repositories to Heal Large-Scale Online Service Systems](https://ieeexplore.ieee.org/abstract/document/6903589), by Rui Ding, Qiang Fu, Jian-Guang Lou, Qingwei Lin, Dongmei Zhang, Tao Xie. [**Microsoft**] 
+1. [**ICDM'14**] [Identifying Recurrent and Unknown Performance Issues](https://ieeexplore.ieee.org/document/7023349), by Meng-Hui Lim, Jian-Guang Lou, Hongyu Zhang, Qiang Fu, Andrew Beng Jin Teoh, Qingwei Lin, Rui Ding, Dongmei Zhang. [**Microsoft**]
 
 ### Software Testing
 
@@ -52,6 +53,7 @@
 1. [**OSDI'18**] [Finding Crash-Consistency Bugs with Bounded Black-Box Crash Testing](https://www.usenix.org/conference/osdi18/presentation/mohan), by Jayashree Mohan, Ashlie Martinez, Soujanya Ponnapalli, Pandian Raju, Vijay Chidambaram. [**VMware**]
 
 ### Logging Practices
+1. [**ATC'15**] [Log2: A Cost-Aware Logging Mechanism for Performance Diagnosis](https://www.usenix.org/node/190487), by Rui Ding, Hucheng Zhou, Jian-Guang Lou, Hongyu Zhang, Qingwei Lin, Qiang Fu, Dongmei Zhang, Tao Xie. [**Microsoft**]
 
 ### Tracing Practices
 
