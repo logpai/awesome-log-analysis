@@ -42,6 +42,7 @@
 1. [**BigData'17**] [WEAC: Word Embeddings for Anomaly Classification from Event Logs](https://ieeexplore.ieee.org/document/8258034), by Amit Pande, Vishal Ahuja. [**Target Corporation**]
 
 ### Duplicate Issues Identification
+1. [**TSE'18**] [Revisiting the Performance Evaluation of Automated Approaches for the Retrieval of Duplicate Issue Reports](https://sail.cs.queensu.ca/Downloads/TSE2017_RevisitingThePerformanceEvaluationOfAutomatedApproachesForTheRetrievalOfDuplicateIssueReports.pdf), by 	Mohamed Sami Rakha, Cor-Paul Bezemer, Ahmed E. Hassan.
 1. [**DSN'14**] [Mining Historical Issue Repositories to Heal Large-Scale Online Service Systems](https://ieeexplore.ieee.org/abstract/document/6903589), by Rui Ding, Qiang Fu, Jian-Guang Lou, Qingwei Lin, Dongmei Zhang, Tao Xie. [**Microsoft**] 
 1. [**ICDM'14**] [Identifying Recurrent and Unknown Performance Issues](https://ieeexplore.ieee.org/document/7023349), by Meng-Hui Lim, Jian-Guang Lou, Hongyu Zhang, Qiang Fu, Andrew Beng Jin Teoh, Qingwei Lin, Rui Ding, Dongmei Zhang. [**Microsoft**]
 
