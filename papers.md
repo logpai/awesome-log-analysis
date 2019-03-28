@@ -48,7 +48,7 @@
 
 ### Software Testing
 
-1. [**ASE'18**] An Automated Approach to Estimating Code Coverage Measures via Execution Logs
+1. [**ASE'18**] [An Automated Approach to Estimating Code Coverage Measures via Execution Logs](http://www.cse.yorku.ca/~zmjiang/publications/ase2018_chen.pdf), by Boyuan Chen, Jian Song, Peng Xu, Xing Hu, Zhen Ming (Jack) Jiang.
 
 ### Bug Finding
 1. [**OSDI'18**] [Finding Crash-Consistency Bugs with Bounded Black-Box Crash Testing](https://www.usenix.org/conference/osdi18/presentation/mohan), by Jayashree Mohan, Ashlie Martinez, Soujanya Ponnapalli, Pandian Raju, Vijay Chidambaram. [**VMware**]
