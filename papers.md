@@ -59,9 +59,23 @@
 ### Tracing Practices
 
 ### Log Parsing
+1. [**ICSE'19**] [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf), by Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. 
+1. [**ICPC'18**] [A Search-based Approach for Accurate Identification of Log Message Formats](http://publications.uni.lu/bitstream/10993/35286/1/ICPC-2018.pdf), by Salma Messaoudi, Annibale Panichella, Domenico Bianculli, Lionel Briand, Raimondas Sasnauskas.
+1. [**TDSC'18**] [Towards Automated Log Parsing for Large-Scale Log Data Analysis](https://jiemingzhu.github.io/pub/pjhe_tdsc2017.pdf), by Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu. 
+1. [**CIKM'16**] [LogMine: Fast Pattern Recognition for Log Analytics](http://www.cs.unm.edu/~mueen/Papers/LogMine.pdf), by Hossein Hamooni, Biplob Debnath, Jianwu Xu, Hui Zhang, Geoff Jiang, Adbullah Mueen. [**NEC**]
+1. [**ICDM'16**] [Spell: Streaming Parsing of System Event Logs](https://www.cs.utah.edu/~lifeifei/papers/spell.pdf), by Min Du, Feifei Li. 
+1. [**ICWS'17**] [Drain: An Online Log Parsing Approach with Fixed Depth Tree](https://jiemingzhu.github.io/pub/pjhe_icws2017.pdf), by Pinjia He, Jieming Zhu, Zibin Zheng, Michael R. Lyu.
 1. [**DSN'16**] [An Evaluation Study on Log Parsing and Its Use in Log Mining](https://jiemingzhu.github.io/pub/pjhe_dsn2016.pdf), by Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu.
+1. [**TKDE'12**] [A Lightweight Algorithm for Message Type Extraction in System Application Logs](http://ieeexplore.ieee.org/abstract/document/5936060/), by Adetokunbo Makanju, A. Nur Zincir-Heywood, Evangelos E. Milios.
+1. [**CIKM'11**] [LogSig: Generating System Events from Raw Textual Logs](https://users.cs.fiu.edu/~taoli/pub/liang-cikm2011.pdf), by Liang Tang, Tao Li, Chang-Shing Perng.
+1. [**KDD'09**] [Clustering Event Logs Using Iterative Partitioning](https://web.cs.dal.ca/~makanju/publications/paper/kdd09.pdf), by Adetokunbo Makanju, A. Nur Zincir-Heywood, Evangelos E. Milios.
+1. [**ICDM'09**] [Execution Anomaly Detection in Distributed Systems through Unstructured Log Analysis](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DM790-CR.pdf), by Qiang Fu, Jian-Guang Lou, Yi Wang, Jiang Li. [**Microsoft**]
 
 ### Log Compression
+1. [**CCGrid'15**] [Cowic: A Column-Wise Independent Compression for Log Stream Analysis](https://ieeexplore.ieee.org/document/7152468), by Hao Lin, Jingyu Zhou, Bin Yao, Minyi Guo, Jie Li.
+1. [**MILCOM'14**] [Lightweight Packing of Log Files for Improved Compression in Mobile Tactical Networks](https://ws680.nist.gov/publication/get_pdf.cfm?pub_id=915734), by Peter Mell, Richard E. Harang.
+1. [**SIGMOD'13**] [Adaptive Log Compression for Massive Log Data](https://www.cs.utah.edu/~lifeifei/papers/compresslog.pdf), by Robert Christensen and Feifei Li. [[Code](https://pubweb.eng.utah.edu/~robertc/archiver.html#code)]
+1. [**DCC'04**] [High Density Compression of Log Files](https://ieeexplore.ieee.org/document/1281533/), by Balázs Rácz, András Lukács. 
 
 
 ### Empirical Studies
