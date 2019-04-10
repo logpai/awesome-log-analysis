@@ -54,6 +54,7 @@
 1. [**OSDI'18**] [Finding Crash-Consistency Bugs with Bounded Black-Box Crash Testing](https://www.usenix.org/conference/osdi18/presentation/mohan), by Jayashree Mohan, Ashlie Martinez, Soujanya Ponnapalli, Pandian Raju, Vijay Chidambaram. [**VMware**]
 
 ### Logging Practices
+1. [**Ebook'19**] [The Complete Guide to Java Logging in Production](http://land.overops.com/java-logging-in-production-ebook/?utm_source=email&utm_medium=nurtureebook&utm_campaign=javaloggingebook&mkt_tok=eyJpIjoiWW1FeVlXWTVORFE0WWpOayIsInQiOiJcLzBoZk9RcTFoY01oSjJwalBUVlFTY2hFdXBGQUlvU0ROTVdVVlVhOGhHK2NneHE3eWt5RlFQeXg2ZkFMT0pySTh1eUtZZ01WQWFIcHRpOVNMRm5HNG9YREpxczBMaXl5eVhRQVdlMURPQUROdFwvYjMzUFFwYmxpSG1tS1wvYU9CVyJ9), by Henn Idan. [**OverOps**]
 1. [**ATC'15**] [Log2: A Cost-Aware Logging Mechanism for Performance Diagnosis](https://www.usenix.org/node/190487), by Rui Ding, Hucheng Zhou, Jian-Guang Lou, Hongyu Zhang, Qingwei Lin, Qiang Fu, Dongmei Zhang, Tao Xie. [**Microsoft**]
 
 ### Tracing Practices
