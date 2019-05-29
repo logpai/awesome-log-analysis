@@ -28,15 +28,15 @@ A curated list of awesome publications and researchers on log analysis, anomaly 
 | China (& HK) | ||||
 | :---------| :------ | :------ | :------ | :------ |
 | [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/), CUHK | [Dongmei Zhang](https://www.microsoft.com/en-us/research/people/dongmeiz/), Microsoft | [Pengfei Chen](http://sdcs.sysu.edu.cn/content/3747), SYSU | [Dan Pei](https://netman.aiops.org/~peidan/), Tsinghua | |
-| **USA** |
-| [Dawson Engler](http://web.stanford.edu/~engler/), Stanford | [Ben Liblit](http://pages.cs.wisc.edu/~liblit/#bug-isolation), Wisconsin–Madison |
-| **Canada** |
-| [Ding Yuan](http://www.eecg.toronto.edu/~yuan/Home.html), Toronto | [Ahmed E. Hassan](http://research.cs.queensu.ca/~ahmed/home/), Queen's | [Weiyi Shang](https://users.encs.concordia.ca/~shang/), Concordia |
-| **UK** |
-| [Zhen Ming (Jack) Jiang](http://www.cse.yorku.ca/~zmjiang/), York |
-| **Europe** |
-| **Australia** |
-| [Ingo Weber](https://people.csiro.au/W/I/Ingo-Weber), CSIRO |
+| **USA** |||||
+| [Dawson Engler](http://web.stanford.edu/~engler/), Stanford | [Ben Liblit](http://pages.cs.wisc.edu/~liblit/#bug-isolation), Wisconsin–Madison ||||
+| **Canada** |||||
+| [Ding Yuan](http://www.eecg.toronto.edu/~yuan/Home.html), Toronto | [Ahmed E. Hassan](http://research.cs.queensu.ca/~ahmed/home/), Queen's | [Weiyi Shang](https://users.encs.concordia.ca/~shang/), Concordia |[Zhen Ming (Jack) Jiang](http://www.cse.yorku.ca/~zmjiang/), York||
+| **UK** |||||
+|  |||||
+| **Europe** |||||
+| **Australia** |||||
+| [Ingo Weber](https://people.csiro.au/W/I/Ingo-Weber), CSIRO |||||
 
 ## Conferences and Journals
 Logs are a type of valuable data generated from many sources such as software, systems, networks, devices, etc. They have also been used for a number of tasks related to reliability, security, performance, and energy. Therefore, the research of log analysis has attracted interests from different research areas.
