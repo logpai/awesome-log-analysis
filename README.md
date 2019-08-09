@@ -5,24 +5,23 @@ A curated list of awesome publications and researchers on log analysis, anomaly 
 
 
 ## Recent Papers
-+ [Survey Papers](./papers.md)
-+ [Industrial Talks](./papers.md)
++ [Surveys & Tutorials](./papers.md#Surveys--Tutorials)
 + [Anomaly Detection](./papers.md#anomaly-detection)
-+ [Failure Prediction](./papers.md)
-+ [Failure Diagnosis/ Debugging](./papers.md#failure-diagnosis-debugging)
-+ [Performance Issues](./papers.md#performance-tuning)
-+ [Energy Issues](./papers.md)
-+ [Security Issues](./papers.md)
++ [Failure Prediction](./papers.md#Failure-Prediction)
++ [Diagnosis/ Debugging/ Root Cause Analysis](./papers.md#diagnosis-debugging-root-cause-analysis)
++ [Performance Issues](./papers.md#performance-issues)
++ [Energy Issues](./papers.md#Energy-Issues)
++ [Security Issues](./papers.md#Security-Issues)
 + [Issue Categorization](./papers.md#issue-categorization)
 + [Duplicate Issues Identification](./papers.md#duplicate-issues-identification)
 + [Software Testing](./papers.md#software-testing)
-+ [Bug Finding](./papers.md)
++ [Bug Finding](./papers.md#Bug-Finding)
 + [Logging Practices](./papers.md#logging-practices)
 + [Tracing Practices](./papers.md#tracing-practices)
 + [Log Parsing](./papers.md#log-parsing)
 + [Log Compression](./papers.md#log-compression)
 + [Empirical Studies](./papers.md#empirical-studies)
-
++ [Industrial Talks](./papers.md#Industrial-Talks)
 
 ## Researchers
 | China (& HK) | ||||
