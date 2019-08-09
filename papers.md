@@ -3,7 +3,7 @@
 + [Surveys & Tutorials](#Surveys--Tutorials)
 + [Anomaly Detection](#anomaly-detection)
 + [Failure Prediction](#Failure-Prediction)
-+ [Failure Diagnosis/ Debugging](#failure-diagnosis-debugging)
++ [Diagnosis/ Debugging/ Root Cause Analysis](#failure-diagnosis-debugging)
 + [Performance Issues](#performance-issues)
 + [Energy Issues](#Energy-Issues)
 + [Security Issues](#Security-Issues)
@@ -24,7 +24,9 @@
 1. [**Book'12**] [Logging and Log Management: The Authoritative Guide to Understanding the Concepts Surrounding Logging and Log Management](http://mirror.thelifeofkenneth.com/sites/qt.vidyagam.es/library/Forensics/Logging%20and%20Log%20Management_%20The%20Authoritats%20Surrounding%20Logging%20and%20Log%20Management/Logging%20and%20Log%20Management_%20The%20Authoritative%20Guide%20to%20Undeanagement%20-%20Anton%20Chuvakin%20&%20Kevin%20Schmidt%20&%20Chris%20Phillips.pdf), by Anton A. Chuvakin, Kevin J. Schmidt, Christopher Phillips.
 
 ### Anomaly Detection
-1. [**FSE'19**] [Robust Log-based Anomaly Detection on Unstable Log Data ](), by Xu Zhang, Yong Xu, Qingwei Lin, Bo Qiao, Hongyu Zhang, Yingnong Dang, Chunyu Xie, Xinsheng Yang, Qian Cheng, Ze Li, Junjie Chen, Xiaoting He, Randolph Yao, Jian-Guang Lou, Murali Chintalapati, Furao Shen, and Dongmei Zhang. [**Microsoft**]
+1. [**FSE'19**] [Robust Log-based Anomaly Detection on Unstable Log Data], by Xu Zhang, Yong Xu, Qingwei Lin, Bo Qiao, Hongyu Zhang, Yingnong Dang, Chunyu Xie, Xinsheng Yang, Qian Cheng, Ze Li, Junjie Chen, Xiaoting He, Randolph Yao, Jian-Guang Lou, Murali Chintalapati, Furao Shen, and Dongmei Zhang. [**Microsoft**]
+1. [**ICSE'19**] [Energy-Based Anomaly Detection A New Perspective for Predicting Software Failures](https://dl.acm.org/citation.cfm?id=3339163), by Cristina Monni, Mauro Pezzè.
+1. [**DSN'19**] [Robust Anomaly Detection on Unreliable Data](https://hal.archives-ouvertes.fr/hal-02056558), by Zilong Zhao, Sophie Cerf, Robert Birke, Bogdan Robu, Sara Bouchenak, Sonia Ben Mokhtar, Lydia Y. Chen. [**ABB Research**]
 1. [**BigData'18**] [Evaluation of Distributed Machine Learning Algorithms for Anomaly Detection from Large-Scale System Logs: A Case Study](https://ieeexplore.ieee.org/document/8621967), by Merve Astekin, Harun Zengin, Hasan Sözer.
 1. [**OSDI'18**] [Capturing and Enhancing In Situ System Observability for Failure Detection](https://www.usenix.org/conference/osdi18/presentation/huang), by Peng Huang, Chuanxiong Guo, Jacob R. Lorch, Lidong Zhou, Yingnong Dang. [**ByteDance, Microsoft**]
 1. [**IEEE Access'18**] [An Integrated Method for Anomaly Detection From Massive System Logs](https://ieeexplore.ieee.org/document/8371223), by Zhaoli Liu, Tao Qin, Xiaohong Guan, Hezhi Jiang, Chenxu Wang.
@@ -34,8 +36,9 @@
 
 ### Failure Prediction
 
-### Diagnosis/ Debugging / Root Cause Analysis
-1. [**FSE'19**] [Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs](), by Xiang Zhou, Xin Peng, Tao Xie, Jun Sun, Chao Ji, Dewei Liu, Qilin Xiang, and Chuan He.
+### Diagnosis/ Debugging/ Root Cause Analysis
+1. [**FSE'19**] [Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs](http://taoxie.cs.illinois.edu/publications/esecfse19-microservice.pdf), by Xiang Zhou, Xin Peng, Tao Xie, Jun Sun, Chao Ji, Dewei Liu, Qilin Xiang, and Chuan He.
+1. [**ICSE'19**] [An Empirical Study On Leveraging Logs For Debugging Production Failures](https://dl.acm.org/citation.cfm?id=3339663.3339723), by An Ran Chen.
 1. [**OSDI'18**] [REPT: Reverse Debugging of Failures in Deployed Software](https://www.usenix.org/conference/osdi18/presentation/weidong), by Weidong Cui, Xinyang Ge, Baris Kasikci, Ben Niu, Upamanyu Sharma, Ruoyu Wang, Insu Yun. [**Microsoft**]
 1. [**Ebook'17**] [The Complete Guide to Automated Root Cause Analysis](https://user-assets-unbounce-com.s3.amazonaws.com/b93ede49-06e1-44dc-9caf-8ca7fe04896f/e3de36aa-27d3-4298-94e8-4bfa39c3094b/complete-guide-to-automated-root-cause-analysis.original.pdf?x-amz-security-token=AgoJb3JpZ2luX2VjELn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkYwRAIgRTR5pUWub9t9Ztk9IxEendfJ0cLHPBxhuNqR4EKAN%2B8CIFBkVapD0NJ50o1pfBq3kmTCcV7J0r8dQs7RLph4nL4JKu0DCIL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDAyNjgyODE5OTMzIgyY3%2BkRc%2FbBvrLEnQYqwQNxkS1vUhjgDa3kp9p%2Bq1gDu3AEen7kgg2evhLRm1gHuZ3G7dp7555eK0%2BQ9pph%2FOG9zhkCms1%2F%2Brc%2BTPkdIgsAxOLEz3g%2BWZwbjbCzt%2Bjea2ktFzuC2VKyXTzsk9vaB6qI70sZ5r6Xv7NnuKPvAWT1cpt6q752yiP5Qy89KvHY9hAh8irwzcMfRqT8LvmY9W8%2FiPuyjBKhQBQrl1S%2BLKq0Qoy80WDlfqLKyhqI4L58c3JYebZeKc%2Bs4IwHU8rLZKPhjxU93YzALjxXwkZethCImCaE%2F8HhTlpNkO0fVKjCUS8o6I4HUvr9IhVh8HbXFlbf9OrBTDVZCwtU6X6%2FViDrYe7BpPDJb4uviaUQ93ij39QuAPl4TqBZ7AYBapdZ8UH4RiHUlQaDHSyrZxLd07rdBdovHSttC7k8eXR9SsbN5SP6Sdwjmgrw4Ln6Mdl5byJ%2BxQ9BKY4tCH%2BKpuRGfwL6mbpPhjSFAP8yJTW%2BW9A4uYm%2Bygrikx765hlgjmSJcrykHY9x4ohW%2FjrEcYPkJi2kZ2CvgY0WUEzBoRAkfo7gFDfXtA5NmvQsx13L9YmC4JTR10xzhqy%2BwbVDBl6MfyXhBDDBq7rlBTq1Ac02Lcx%2FJ5pZ4DmTK6HrfiXhWQ05VOPusCyRennmN1Tct3ZOPy9dJscWHdM1tVWdOK5ilkfRupgEzdohXF7ezRrMnv%2BjaMcrx%2BQS51eWerZgdAcHwtPJJ6w42Tc9ubpq0uZXCwhPd6PUew9B5yPfq4gkiZ1B3FsTCHef4l%2FhSMcsTcXFqNGUHdRHwBd0MNH2pzfHAOqVQMKQJU9Me5KGDlUe3%2BidObCWYoVa6teSoy%2Bk%2Bl5sZlk%3D&AWSAccessKeyId=ASIAQBH7ISVO3DBFXSYX&Expires=1554948093&Signature=uNk%2FEbzw8oHYtW8xBGEabVNP0ew%3D), by Tali Soroker. [**OverOps**]
 1. [**ICSE'13**] [Assisting Developers of Big Data Analytics Applications When Deploying on Hadoop Clouds](http://www.cse.yorku.ca/~zmjiang/publications/ICSE2013_Shang.pdf), by Weiyi Shang, Zhen Ming Jiang, Hadi Hemmati, Bram Adams, Ahmed E. Hassan and Patrick Marin. [**ACM SIGSOFT Distinguished Paper Award**] 
@@ -61,7 +64,7 @@
 1. [**ICDM'14**] [Identifying Recurrent and Unknown Performance Issues](https://ieeexplore.ieee.org/document/7023349), by Meng-Hui Lim, Jian-Guang Lou, Hongyu Zhang, Qiang Fu, Andrew Beng Jin Teoh, Qingwei Lin, Rui Ding, Dongmei Zhang. [**Microsoft**]
 
 ### Software Testing
-
+1. [**ICSE'19**] [Mining Historical Test Logs to Predict Bugs and Localize Faults in the Test Logs](https://dl.acm.org/citation.cfm?id=3339525), by Anunay Amar, Peter Rigby.
 1. [**ASE'18**] [An Automated Approach to Estimating Code Coverage Measures via Execution Logs](http://www.cse.yorku.ca/~zmjiang/publications/ase2018_chen.pdf), by Boyuan Chen, Jian Song, Peng Xu, Xing Hu, Zhen Ming (Jack) Jiang.
 
 ### Bug Finding
@@ -69,6 +72,7 @@
 
 ### Logging Practices
 1. [**ICSE'19**] [DLFinder: Characterizing and Detecting Duplicate Logging Code Smells](https://users.encs.concordia.ca/~shang/pubs/icse2019_zhenhao.pdf), by Zhenhao Li, Tse-Hsun Chen, Jinqiu Yang and Weiyi Shang.
+1. [**MSR'19**] [Tracing Back Log Data to its Log Statement: From Research to Practice](https://pure.tudelft.nl/portal/files/52060635/paper.pdf), by Daan Schipper, Mauricio Aniche, Arie van Deursen.
 1. [**SOSP'17**] [Log20: Fully Automated Optimal Placement of Log Printing Statements under Specified Overhead Threshold](http://log20.dsrg.utoronto.ca/log20_sosp17_paper.pdf), by Xu Zhao, Kirk Rodrigues, Yu Luo, Michael Stumm, Ding Yuan, Yuanyuan Zhou. 
 1. [**ICSE'17**] [Characterizing and Detecting Anti-patterns in the Logging Code](http://www.cse.yorku.ca/~zmjiang/publications/icse2017_chen.pdf), by Boyuan Chen and Zhen Ming (Jack) Jiang. 
 1. [**Ebook'17**] [The Complete Guide to Java Logging in Production](https://user-assets-unbounce-com.s3.amazonaws.com/b93ede49-06e1-44dc-9caf-8ca7fe04896f/7af016fa-abc4-42e1-bfd9-be9b6b26b0ad/the-complete-guide-to-logging.original.pdf?x-amz-security-token=AgoJb3JpZ2luX2VjEKr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkgwRgIhAKCp2NuGOQHgmAW8X%2FZ0LrYeBthhJwHVSaS7TErRt1MKAiEAhNr%2BfrrAe9KVMavGhqUeVIcB%2B8T5vv8MHk2hMGqX%2BlIq5AMIcxAAGgwwMDI2ODI4MTk5MzMiDK14rEtsh3W5EyDbpirBA%2FMmJjE0y4Tu%2FHvfAF3QGuccVbzhNTIo6tO2r0bmvcx6TJwAtCbfRZpnCksqioeUPumKd9HVoh2ZkuAFQNFE2%2B9MLM9M1p5W8FOQOmw%2FYmk0V%2B3cCWs3I%2BGH7xiSeNM7dOQAuHNsp62S4WDJ6xgp%2BPl2j4AqAu3EBDiXXCkn%2BvKqOOdtIa2jAeEBxaYh7b52CT6HAiv8v5l86gGRASOx4aHjUIzF%2FxnRZ0Z1VuV3%2BmTwyGUnYmSIjfbGNf0r0JlctUKXyn84LI0TRmUqRh%2B16XCXeOhE7%2BfKZKuMNEssSra7XuV6t32bF3wYvD5vEHfYze1jqpkLZQMi%2BIvjc99iqBXk8UQEr39fctSUtkjfxaLib6UWLjievXPZnz3YmhhaYmQa14ozi%2FqkTdUMeZgWn8scjRRLIGUeun6F1xxqIUJXnnjSNDRTtcFRizPH3keATtNhwAbudsYOCgAx9KBuNkFn1W6VUjqG0PkrTuNnJNZ1DgOG2a4lEF2h2Qk%2BjvZ64rpLyZfDqEYABvpZejTRvjxDtHozhIWQ3epqb3cj3tV34VIlt75HtYtQk4eOqbTd%2BFGndTfZqchwo9jtXUkXX2twMPX%2FtuUFOrMBEe2rMiJ%2BCus%2FS0YOIFp2F2JJfRkFvUP%2B3u2yFIHj04Ahaa6G8BW%2F1II%2BjnrZbvZKBmxe2oINZriybKzztY%2BYFiScWrUgGy9QVavKRJpaZ7OsCSIKp%2Bl7TLp1M0%2BRcvu%2B7MAhV%2BuGTTEMpBlV1StKhhHb8pNnGaeiiQ76%2BuYxjLz7Z9Uo7FJAza64l1tvNtrCBww37DFB5cUsXD6D0j90td6jRcC65Whs3Uk%2Fabd0cZYDNks%3D&AWSAccessKeyId=ASIAQBH7ISVOZV6MYNNT&Expires=1554893957&Signature=aWBeSqDU2rfYJNRoRuQRlO1Zbqc%3D), by Henn Idan. [**OverOps**]
@@ -101,6 +105,8 @@
 
 
 ### Empirical Studies
+1. [**FSE'19**] [How Bad Can a Bug Get? An Empirical Analysis of Software Failures in the OpenStack Cloud Computing Platform](https://arxiv.org/abs/1907.04055), by Domenico Cotroneo, Luigi De Simone, Pietro Liguori, Roberto Natella, and Nematollah Bidokhti. [**Futurewei Technologies**]
+1. [**DSN'19**] [Characterizing and Understanding HPC Job Failures over The 2K-day Life of IBM BlueGene/Q System](http://icl.utk.edu/jlesc9/files/STM3.2/jlesc9_sheng_mira.pdf), by Sheng Di, Hanqi Guo, Eric R. Pershey, Marc Snir, Franck Cappello.
 1. [**DSN'07**] [What Supercomputers Say: A Study of Five System Logs](http://ieeexplore.ieee.org/document/4273008/), by Adam J. Oliner, Jon Stearley.
 
 ### Industrial Talks
