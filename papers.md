@@ -3,7 +3,7 @@
 + [Surveys & Tutorials](#Surveys--Tutorials)
 + [Anomaly Detection](#anomaly-detection)
 + [Failure Prediction](#Failure-Prediction)
-+ [Diagnosis/ Debugging/ Root Cause Analysis](#failure-diagnosis-debugging)
++ [Diagnosis/ Debugging/ Root Cause Analysis](#diagnosis-debugging-root-cause-analysis)
 + [Performance Issues](#performance-issues)
 + [Energy Issues](#Energy-Issues)
 + [Security Issues](#Security-Issues)
