@@ -37,6 +37,7 @@
 ### Failure Prediction
 
 ### Diagnosis/ Debugging/ Root Cause Analysis
+1. [**SOSP'19**] [The Prefix Inflection Theorem: A Principled Debugging Approach for Locating Root Cause], by Yongle Zhang, Kirk Rodrigues, Yu Luo, Michael Stumm, Ding Yuan.
 1. [**FSE'19**] [Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs](http://taoxie.cs.illinois.edu/publications/esecfse19-microservice.pdf), by Xiang Zhou, Xin Peng, Tao Xie, Jun Sun, Chao Ji, Dewei Liu, Qilin Xiang, and Chuan He.
 1. [**ICSE'19**] [An Empirical Study On Leveraging Logs For Debugging Production Failures](https://dl.acm.org/citation.cfm?id=3339663.3339723), by An Ran Chen.
 1. [**OSDI'18**] [REPT: Reverse Debugging of Failures in Deployed Software](https://www.usenix.org/conference/osdi18/presentation/weidong), by Weidong Cui, Xinyang Ge, Baris Kasikci, Ben Niu, Upamanyu Sharma, Ruoyu Wang, Insu Yun. [**Microsoft**]
