@@ -89,7 +89,7 @@
 ### Tracing Practices
 
 ### Log Parsing
-1. [**ICSE'19**] [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf), by Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. 
+1. [**ICSE'19**] [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf), by Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [**Huawei**]
 1. [**ICPC'18**] [A Search-based Approach for Accurate Identification of Log Message Formats](http://publications.uni.lu/bitstream/10993/35286/1/ICPC-2018.pdf), by Salma Messaoudi, Annibale Panichella, Domenico Bianculli, Lionel Briand, Raimondas Sasnauskas.
 1. [**TDSC'18**] [Towards Automated Log Parsing for Large-Scale Log Data Analysis](https://jiemingzhu.github.io/pub/pjhe_tdsc2017.pdf), by Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu. 
 1. [**CIKM'16**] [LogMine: Fast Pattern Recognition for Log Analytics](http://www.cs.unm.edu/~mueen/Papers/LogMine.pdf), by Hossein Hamooni, Biplob Debnath, Jianwu Xu, Hui Zhang, Geoff Jiang, Adbullah Mueen. [**NEC**]
