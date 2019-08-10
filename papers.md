@@ -11,6 +11,7 @@
 + [Duplicate Issues Identification](#duplicate-issues-identification)
 + [Software Testing](#software-testing)
 + [Bug Finding](#Bug-Finding)
++ [Workflow Mining](#Workflow-Mining)
 + [Logging Practices](#logging-practices)
 + [Tracing Practices](#tracing-practices)
 + [Log Parsing](#log-parsing)
@@ -35,6 +36,7 @@
 1. [**CCS'17**] [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://www.cs.utah.edu/~lifeifei/papers/deeplog.pdf), by Min Du, Feifei Li, Guineng Zheng, Vivek Srikumar.
 1. [**ISSRE'17**] [Experience Report: Log Mining using Natural Language Processing and Application to Anomaly Detection](https://hal.laas.fr/hal-01576291/document), by Christophe Bertero, Matthieu Roy, Carla Sauvanaud and Gilles Tredan.
 1. [**ISSRE'16**] [Experience Report: System Log Analysis for Anomaly Detection](https://jiemingzhu.github.io/pub/slhe_issre2016.pdf), by Shilin He, Jieming Zhu, Pinjia He, Michael R. Lyu. 
+1. [**ICDM'09**] [Execution Anomaly Detection in Distributed Systems through Unstructured Log Analysis](https://www.researchgate.net/profile/Qiang_Fu30/publication/220765301_Execution_Anomaly_Detection_in_Distributed_Systems_through_Unstructured_Log_Analysis/links/00b7d537b81759b88b000000/Execution-Anomaly-Detection-in-Distributed-Systems-through-Unstructured-Log-Analysis.pdf), by Qiang Fu, Jian-Guang Lou, Yi Wang, Jiang Li. [**Microsoft**]
 
 ### Failure Prediction
 
@@ -59,6 +61,7 @@
 
 
 ### Issue Categorization
+1. [**FSE'18**] [Identifying Impactful Service System Problems via Log Analysis](https://github.com/logpai/Log3C), by Shilin He, Qingwei Lin, Jian-Guang Lou, Hongyu Zhang, Michael R. Lyu, Dongmei Zhang. [**Microsoft**]
 1. [**IWQoS'18**] [Device-Agnostic Log Anomaly Classification with Partial Labels](https://aiops.org/wp-content/uploads/2018/06/Device_Agnostic_Log_Anomaly_Classification.pdf), by Weibin Meng, Ying Liu, Shenglin Zhang, Dan Pei, Hui Dong, Lei Song, Xulong Luo. [**Baidu**]
 1. [**BigData'17**] [WEAC: Word Embeddings for Anomaly Classification from Event Logs](https://ieeexplore.ieee.org/document/8258034), by Amit Pande, Vishal Ahuja. [**Target Corporation**]
 
@@ -67,16 +70,23 @@
 1. [**DSN'14**] [Mining Historical Issue Repositories to Heal Large-Scale Online Service Systems](https://ieeexplore.ieee.org/abstract/document/6903589), by Rui Ding, Qiang Fu, Jian-Guang Lou, Qingwei Lin, Dongmei Zhang, Tao Xie. [**Microsoft**] 
 1. [**ICDM'14**] [Identifying Recurrent and Unknown Performance Issues](https://ieeexplore.ieee.org/document/7023349), by Meng-Hui Lim, Jian-Guang Lou, Hongyu Zhang, Qiang Fu, Andrew Beng Jin Teoh, Qingwei Lin, Rui Ding, Dongmei Zhang. [**Microsoft**]
 
+
 ### Software Testing
 1. [**ICSE'19**] [Mining Historical Test Logs to Predict Bugs and Localize Faults in the Test Logs](https://dl.acm.org/citation.cfm?id=3339525), by Anunay Amar, Peter Rigby.
 1. [**ASE'18**] [An Automated Approach to Estimating Code Coverage Measures via Execution Logs](http://www.cse.yorku.ca/~zmjiang/publications/ase2018_chen.pdf), by Boyuan Chen, Jian Song, Peng Xu, Xing Hu, Zhen Ming (Jack) Jiang.
 
 ### Bug Finding
 1. [**OSDI'18**] [Finding Crash-Consistency Bugs with Bounded Black-Box Crash Testing](https://www.usenix.org/conference/osdi18/presentation/mohan), by Jayashree Mohan, Ashlie Martinez, Soujanya Ponnapalli, Pandian Raju, Vijay Chidambaram. [**VMware**]
+1. [**FSE'18**] [CloudRaid: Hunting Concurrency Bugs in the Cloud via Log-Mining](), by Jie Lu, Feng Li, Lian Li, Xiaobing Feng.
+
+### Workflow Mining
+1. [**ICSE'18**] [Inferring Hierarchical Motifs from Execution Traces](http://blogs.ubc.ca/karthik/files/2018/02/Saba-ICSE18.pdf), by Saba Alimadadi, Ali Mesbah, Karthik Pattabiraman.
+1. [**FSE'18**] [Using Finite-State Models for Log Differencing](https://www.cs.tau.ac.il/~maozs/papers/log-diff-fse18.pdf), by Hen Amar, Lingfeng Bao, Nimrod Busany, David Lo, Shahar Maoz.
 
 ### Logging Practices
 1. [**ICSE'19**] [DLFinder: Characterizing and Detecting Duplicate Logging Code Smells](https://users.encs.concordia.ca/~shang/pubs/icse2019_zhenhao.pdf), by Zhenhao Li, Tse-Hsun Chen, Jinqiu Yang and Weiyi Shang.
 1. [**MSR'19**] [Tracing Back Log Data to its Log Statement: From Research to Practice](https://pure.tudelft.nl/portal/files/52060635/paper.pdf), by Daan Schipper, Mauricio Aniche, Arie van Deursen.
+1. [**ASE'18**] [Characterizing the Natural Language Descriptions in Software. Logging Statements](https://pinjiahe.github.io/papers/ASE18.pdf), by Pinjia He, Zhuangbin Chen, Shilin He, Michael R. Lyu.
 1. [**SOSP'17**] [Log20: Fully Automated Optimal Placement of Log Printing Statements under Specified Overhead Threshold](http://log20.dsrg.utoronto.ca/log20_sosp17_paper.pdf), by Xu Zhao, Kirk Rodrigues, Yu Luo, Michael Stumm, Ding Yuan, Yuanyuan Zhou. 
 1. [**ICSE'17**] [Characterizing and Detecting Anti-patterns in the Logging Code](http://www.cse.yorku.ca/~zmjiang/publications/icse2017_chen.pdf), by Boyuan Chen and Zhen Ming (Jack) Jiang. 
 1. [**Ebook'17**] [The Complete Guide to Java Logging in Production](https://user-assets-unbounce-com.s3.amazonaws.com/b93ede49-06e1-44dc-9caf-8ca7fe04896f/7af016fa-abc4-42e1-bfd9-be9b6b26b0ad/the-complete-guide-to-logging.original.pdf?x-amz-security-token=AgoJb3JpZ2luX2VjEKr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkgwRgIhAKCp2NuGOQHgmAW8X%2FZ0LrYeBthhJwHVSaS7TErRt1MKAiEAhNr%2BfrrAe9KVMavGhqUeVIcB%2B8T5vv8MHk2hMGqX%2BlIq5AMIcxAAGgwwMDI2ODI4MTk5MzMiDK14rEtsh3W5EyDbpirBA%2FMmJjE0y4Tu%2FHvfAF3QGuccVbzhNTIo6tO2r0bmvcx6TJwAtCbfRZpnCksqioeUPumKd9HVoh2ZkuAFQNFE2%2B9MLM9M1p5W8FOQOmw%2FYmk0V%2B3cCWs3I%2BGH7xiSeNM7dOQAuHNsp62S4WDJ6xgp%2BPl2j4AqAu3EBDiXXCkn%2BvKqOOdtIa2jAeEBxaYh7b52CT6HAiv8v5l86gGRASOx4aHjUIzF%2FxnRZ0Z1VuV3%2BmTwyGUnYmSIjfbGNf0r0JlctUKXyn84LI0TRmUqRh%2B16XCXeOhE7%2BfKZKuMNEssSra7XuV6t32bF3wYvD5vEHfYze1jqpkLZQMi%2BIvjc99iqBXk8UQEr39fctSUtkjfxaLib6UWLjievXPZnz3YmhhaYmQa14ozi%2FqkTdUMeZgWn8scjRRLIGUeun6F1xxqIUJXnnjSNDRTtcFRizPH3keATtNhwAbudsYOCgAx9KBuNkFn1W6VUjqG0PkrTuNnJNZ1DgOG2a4lEF2h2Qk%2BjvZ64rpLyZfDqEYABvpZejTRvjxDtHozhIWQ3epqb3cj3tV34VIlt75HtYtQk4eOqbTd%2BFGndTfZqchwo9jtXUkXX2twMPX%2FtuUFOrMBEe2rMiJ%2BCus%2FS0YOIFp2F2JJfRkFvUP%2B3u2yFIHj04Ahaa6G8BW%2F1II%2BjnrZbvZKBmxe2oINZriybKzztY%2BYFiScWrUgGy9QVavKRJpaZ7OsCSIKp%2Bl7TLp1M0%2BRcvu%2B7MAhV%2BuGTTEMpBlV1StKhhHb8pNnGaeiiQ76%2BuYxjLz7Z9Uo7FJAza64l1tvNtrCBww37DFB5cUsXD6D0j90td6jRcC65Whs3Uk%2Fabd0cZYDNks%3D&AWSAccessKeyId=ASIAQBH7ISVOZV6MYNNT&Expires=1554893957&Signature=aWBeSqDU2rfYJNRoRuQRlO1Zbqc%3D), by Henn Idan. [**OverOps**]
