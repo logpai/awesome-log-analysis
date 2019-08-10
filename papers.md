@@ -19,11 +19,12 @@
 + [Industrial Talks](#Industrial-Talks)
 
 ### Surveys & Tutorials
-1. [**Theis**] [Log Engineering: Towards Systematic Log Mining to Support the Development of Ultra-large Scale Systems](https://users.encs.concordia.ca/~shang/pubs/2014_LogEngineering_TowardsSystematicLogMiningToSupportTheDevelopmentOfUltra-largeScaleSystems.pdf), by Weiyi Shang.
+1. [**Thesis**] [Log Engineering: Towards Systematic Log Mining to Support the Development of Ultra-large Scale Systems](https://users.encs.concordia.ca/~shang/pubs/2014_LogEngineering_TowardsSystematicLogMiningToSupportTheDevelopmentOfUltra-largeScaleSystems.pdf), by Weiyi Shang.
 1. [**Book'14**] [I Heart Logs](https://www.oreilly.com/library/view/i-heart-logs/9781491909379/), by by Jay Kreps.
 1. [**Book'12**] [Logging and Log Management: The Authoritative Guide to Understanding the Concepts Surrounding Logging and Log Management](http://mirror.thelifeofkenneth.com/sites/qt.vidyagam.es/library/Forensics/Logging%20and%20Log%20Management_%20The%20Authoritats%20Surrounding%20Logging%20and%20Log%20Management/Logging%20and%20Log%20Management_%20The%20Authoritative%20Guide%20to%20Undeanagement%20-%20Anton%20Chuvakin%20&%20Kevin%20Schmidt%20&%20Chris%20Phillips.pdf), by Anton A. Chuvakin, Kevin J. Schmidt, Christopher Phillips.
 
 ### Anomaly Detection
+1. [**IJCAI'19**] [LogAnomaly: Unsupervised Detection of Sequential and Quantitative Anomalies in Unstructured Logs](https://www.ijcai.org/proceedings/2019/0658.pdf), by Weibin Meng, Ying Liu, Yichen Zhu, Shenglin Zhang, Dan Pei, Yuqing Liu, Yihao Chen, Ruizhi Zhang, Shimin Tao, Pei Sun, Rong Zhou. [**Huawei**]
 1. [**FSE'19**] [Robust Log-based Anomaly Detection on Unstable Log Data], by Xu Zhang, Yong Xu, Qingwei Lin, Bo Qiao, Hongyu Zhang, Yingnong Dang, Chunyu Xie, Xinsheng Yang, Qian Cheng, Ze Li, Junjie Chen, Xiaoting He, Randolph Yao, Jian-Guang Lou, Murali Chintalapati, Furao Shen, and Dongmei Zhang. [**Microsoft**]
 1. [**ICSE'19**] [Energy-Based Anomaly Detection A New Perspective for Predicting Software Failures](https://dl.acm.org/citation.cfm?id=3339163), by Cristina Monni, Mauro Pezzè.
 1. [**DSN'19**] [Robust Anomaly Detection on Unreliable Data](https://hal.archives-ouvertes.fr/hal-02056558), by Zilong Zhao, Sophie Cerf, Robert Birke, Bogdan Robu, Sara Bouchenak, Sonia Ben Mokhtar, Lydia Y. Chen. [**ABB Research**]
@@ -101,6 +102,7 @@
 1. [**ICDM'09**] [Execution Anomaly Detection in Distributed Systems through Unstructured Log Analysis](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DM790-CR.pdf), by Qiang Fu, Jian-Guang Lou, Yi Wang, Jiang Li. [**Microsoft**]
 
 ### Log Compression
+1. [**ASE'19**] [Logzip: Extracting Hidden Structures via Iterative Clustering for Log Compression], by Jinyang Liu, Jieming Zhu, Shilin He, Pinjia He, Zibin Zheng, Michael R. Lyu. [**Huawei**]
 1. [**CCGrid'15**] [Cowic: A Column-Wise Independent Compression for Log Stream Analysis](https://ieeexplore.ieee.org/document/7152468), by Hao Lin, Jingyu Zhou, Bin Yao, Minyi Guo, Jie Li.
 1. [**MILCOM'14**] [Lightweight Packing of Log Files for Improved Compression in Mobile Tactical Networks](https://ws680.nist.gov/publication/get_pdf.cfm?pub_id=915734), by Peter Mell, Richard E. Harang.
 1. [**SIGMOD'13**] [Adaptive Log Compression for Massive Log Data](https://www.cs.utah.edu/~lifeifei/papers/compresslog.pdf), by Robert Christensen and Feifei Li. [[Code](https://pubweb.eng.utah.edu/~robertc/archiver.html#code)]
