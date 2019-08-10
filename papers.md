@@ -20,9 +20,11 @@
 + [Industrial Talks](#Industrial-Talks)
 
 ### Surveys & Tutorials
+1. [**Blog**] [What is AIOps? Artificial Intelligence for IT Operations Explained](http://www.bmc.com/blogs/what-is-aiops/), by Seth Paskin. [**BMC Software**]
 1. [**Thesis**] [Log Engineering: Towards Systematic Log Mining to Support the Development of Ultra-large Scale Systems](https://users.encs.concordia.ca/~shang/pubs/2014_LogEngineering_TowardsSystematicLogMiningToSupportTheDevelopmentOfUltra-largeScaleSystems.pdf), by Weiyi Shang.
 1. [**Book'14**] [I Heart Logs](https://www.oreilly.com/library/view/i-heart-logs/9781491909379/), by by Jay Kreps.
 1. [**Book'12**] [Logging and Log Management: The Authoritative Guide to Understanding the Concepts Surrounding Logging and Log Management](http://mirror.thelifeofkenneth.com/sites/qt.vidyagam.es/library/Forensics/Logging%20and%20Log%20Management_%20The%20Authoritats%20Surrounding%20Logging%20and%20Log%20Management/Logging%20and%20Log%20Management_%20The%20Authoritative%20Guide%20to%20Undeanagement%20-%20Anton%20Chuvakin%20&%20Kevin%20Schmidt%20&%20Chris%20Phillips.pdf), by Anton A. Chuvakin, Kevin J. Schmidt, Christopher Phillips.
+
 
 ### Anomaly Detection
 1. [**IJCAI'19**] [LogAnomaly: Unsupervised Detection of Sequential and Quantitative Anomalies in Unstructured Logs](https://www.ijcai.org/proceedings/2019/0658.pdf), by Weibin Meng, Ying Liu, Yichen Zhu, Shenglin Zhang, Dan Pei, Yuqing Liu, Yihao Chen, Ruizhi Zhang, Shimin Tao, Pei Sun, Rong Zhou. [**Huawei**]
