@@ -28,7 +28,7 @@
 
 ### Anomaly Detection
 1. [**IJCAI'19**] [LogAnomaly: Unsupervised Detection of Sequential and Quantitative Anomalies in Unstructured Logs](https://www.ijcai.org/proceedings/2019/0658.pdf), by Weibin Meng, Ying Liu, Yichen Zhu, Shenglin Zhang, Dan Pei, Yuqing Liu, Yihao Chen, Ruizhi Zhang, Shimin Tao, Pei Sun, Rong Zhou. [**Huawei**]
-1. [**FSE'19**] [Robust Log-based Anomaly Detection on Unstable Log Data], by Xu Zhang, Yong Xu, Qingwei Lin, Bo Qiao, Hongyu Zhang, Yingnong Dang, Chunyu Xie, Xinsheng Yang, Qian Cheng, Ze Li, Junjie Chen, Xiaoting He, Randolph Yao, Jian-Guang Lou, Murali Chintalapati, Furao Shen, and Dongmei Zhang. [**Microsoft**]
+1. [**FSE'19**] [Robust Log-based Anomaly Detection on Unstable Log Data](https://dl.acm.org/citation.cfm?id=3338931), by Xu Zhang, Yong Xu, Qingwei Lin, Bo Qiao, Hongyu Zhang, Yingnong Dang, Chunyu Xie, Xinsheng Yang, Qian Cheng, Ze Li, Junjie Chen, Xiaoting He, Randolph Yao, Jian-Guang Lou, Murali Chintalapati, Furao Shen, and Dongmei Zhang. [**Microsoft**]
 1. [**ICSE'19**] [Energy-Based Anomaly Detection A New Perspective for Predicting Software Failures](https://dl.acm.org/citation.cfm?id=3339163), by Cristina Monni, Mauro Pezzè.
 1. [**DSN'19**] [Robust Anomaly Detection on Unreliable Data](https://hal.archives-ouvertes.fr/hal-02056558), by Zilong Zhao, Sophie Cerf, Robert Birke, Bogdan Robu, Sara Bouchenak, Sonia Ben Mokhtar, Lydia Y. Chen. [**ABB Research**]
 1. [**BigData'18**] [Evaluation of Distributed Machine Learning Algorithms for Anomaly Detection from Large-Scale System Logs: A Case Study](https://ieeexplore.ieee.org/document/8621967), by Merve Astekin, Harun Zengin, Hasan Sözer.
