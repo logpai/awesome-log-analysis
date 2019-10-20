@@ -43,6 +43,7 @@
 ### Failure Prediction
 
 ### Diagnosis/ Debugging/ Root Cause Analysis
+1. [**CLOUD'19**] [An Approach to Cloud Execution Failure Diagnosis Based on Exception Logs in OpenStack](https://ieeexplore.ieee.org/abstract/document/8814553), by Yue Yuan, Wenchang Shi, Bin Liang, Bo Qin.
 1. [**SOSP'19**] [The Prefix Inflection Theorem: A Principled Debugging Approach for Locating Root Cause], by Yongle Zhang, Kirk Rodrigues, Yu Luo, Michael Stumm, Ding Yuan.
 1. [**FSE'19**] [Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs](http://taoxie.cs.illinois.edu/publications/esecfse19-microservice.pdf), by Xiang Zhou, Xin Peng, Tao Xie, Jun Sun, Chao Ji, Dewei Liu, Qilin Xiang, and Chuan He.
 1. [**ICSE'19**] [An Empirical Study On Leveraging Logs For Debugging Production Failures](https://dl.acm.org/citation.cfm?id=3339663.3339723), by An Ran Chen.
@@ -82,10 +83,12 @@
 1. [**FSE'18**] [CloudRaid: Hunting Concurrency Bugs in the Cloud via Log-Mining](), by Jie Lu, Feng Li, Lian Li, Xiaobing Feng.
 
 ### Workflow Mining
+1. [**ASE'19**] [Statistical Log Differencing](http://www.mysmu.edu/faculty/davidlo/papers/ase19-sld.pdf), by Lingfeng Bao, Nimrod Busany, David Lo, Shahar Maoz.
 1. [**ICSE'18**] [Inferring Hierarchical Motifs from Execution Traces](http://blogs.ubc.ca/karthik/files/2018/02/Saba-ICSE18.pdf), by Saba Alimadadi, Ali Mesbah, Karthik Pattabiraman.
 1. [**FSE'18**] [Using Finite-State Models for Log Differencing](https://www.cs.tau.ac.il/~maozs/papers/log-diff-fse18.pdf), by Hen Amar, Lingfeng Bao, Nimrod Busany, David Lo, Shahar Maoz.
 
 ### Logging Practices
+1. [**TSE'19**] [Which Variables Should I Log?](https://xin-xia.github.io/publication/tse197.pdf), by Zhongxin Liu, Xin Xia, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li.
 1. [**ICSE'19**] [DLFinder: Characterizing and Detecting Duplicate Logging Code Smells](https://users.encs.concordia.ca/~shang/pubs/icse2019_zhenhao.pdf), by Zhenhao Li, Tse-Hsun Chen, Jinqiu Yang and Weiyi Shang.
 1. [**MSR'19**] [Tracing Back Log Data to its Log Statement: From Research to Practice](https://pure.tudelft.nl/portal/files/52060635/paper.pdf), by Daan Schipper, Mauricio Aniche, Arie van Deursen.
 1. [**ASE'18**] [Characterizing the Natural Language Descriptions in Software. Logging Statements](https://pinjiahe.github.io/papers/ASE18.pdf), by Pinjia He, Zhuangbin Chen, Shilin He, Michael R. Lyu.
