@@ -27,6 +27,7 @@
 
 
 ### Anomaly Detection
+1. [**ICDM'20**] [Self-Attentive Classification-Based Anomaly Detection in Unstructured Logs](https://arxiv.org/pdf/2008.09340.pdf), by Sasho Nedelkoski, Jasmin Bogatinovski, Alexander Acker, Jorge Cardoso, Odej Kao.
 1. [**IJCAI'19**] [LogAnomaly: Unsupervised Detection of Sequential and Quantitative Anomalies in Unstructured Logs](https://www.ijcai.org/proceedings/2019/0658.pdf), by Weibin Meng, Ying Liu, Yichen Zhu, Shenglin Zhang, Dan Pei, Yuqing Liu, Yihao Chen, Ruizhi Zhang, Shimin Tao, Pei Sun, Rong Zhou. [**Huawei**]
 1. [**FSE'19**] [Robust Log-based Anomaly Detection on Unstable Log Data](https://dl.acm.org/citation.cfm?id=3338931), by Xu Zhang, Yong Xu, Qingwei Lin, Bo Qiao, Hongyu Zhang, Yingnong Dang, Chunyu Xie, Xinsheng Yang, Qian Cheng, Ze Li, Junjie Chen, Xiaoting He, Randolph Yao, Jian-Guang Lou, Murali Chintalapati, Furao Shen, and Dongmei Zhang. [**Microsoft**]
 1. [**ICSE'19**] [Energy-Based Anomaly Detection A New Perspective for Predicting Software Failures](https://dl.acm.org/citation.cfm?id=3339163), by Cristina Monni, Mauro Pezzè.
@@ -104,6 +105,8 @@
 ### Tracing Practices
 
 ### Log Parsing
+1. [**TSE'20**] [Logram: Efficient Log Parsing Using n-Gram Dictionaries](https://arxiv.org/pdf/2001.03038.pdf), by Hetong Dai, Heng Li, Che-Shao Chen, Weiyi Shang, Tse-Hsun Chen.
+1. [**Arxiv'20**] [Self-Supervised Log Parsing](https://arxiv.org/pdf/2003.07905.pdf), by Sasho Nedelkoski, Jasmin Bogatinovski, Alexander Acker, Jorge Cardoso, Odej Kao.
 1. [**ICSE'19**] [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf), by Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [**Huawei**]
 1. [**ICPC'18**] [A Search-based Approach for Accurate Identification of Log Message Formats](http://publications.uni.lu/bitstream/10993/35286/1/ICPC-2018.pdf), by Salma Messaoudi, Annibale Panichella, Domenico Bianculli, Lionel Briand, Raimondas Sasnauskas.
 1. [**TDSC'18**] [Towards Automated Log Parsing for Large-Scale Log Data Analysis](https://jiemingzhu.github.io/pub/pjhe_tdsc2017.pdf), by Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu. 
