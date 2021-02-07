@@ -19,11 +19,13 @@
 + [Empirical Studies](#empirical-studies)
 + [Industrial Talks](#Industrial-Talks)
 
-### Surveys & Tutorials
+### Surveys & Tutorials & Magazines
 1. [**Blog**] [What is AIOps? Artificial Intelligence for IT Operations Explained](http://www.bmc.com/blogs/what-is-aiops/), by Seth Paskin. [**BMC Software**]
-1. [**Thesis**] [Log Engineering: Towards Systematic Log Mining to Support the Development of Ultra-large Scale Systems](https://users.encs.concordia.ca/~shang/pubs/2014_LogEngineering_TowardsSystematicLogMiningToSupportTheDevelopmentOfUltra-largeScaleSystems.pdf), by Weiyi Shang.
-1. [**Book'14**] [I Heart Logs](https://www.oreilly.com/library/view/i-heart-logs/9781491909379/), by by Jay Kreps.
+1. [**Book'14**] [I Heart Logs](https://www.oreilly.com/library/view/i-heart-logs/9781491909379/), by Jay Kreps.
 1. [**Book'12**] [Logging and Log Management: The Authoritative Guide to Understanding the Concepts Surrounding Logging and Log Management](http://mirror.thelifeofkenneth.com/sites/qt.vidyagam.es/library/Forensics/Logging%20and%20Log%20Management_%20The%20Authoritats%20Surrounding%20Logging%20and%20Log%20Management/Logging%20and%20Log%20Management_%20The%20Authoritative%20Guide%20to%20Undeanagement%20-%20Anton%20Chuvakin%20&%20Kevin%20Schmidt%20&%20Chris%20Phillips.pdf), by Anton A. Chuvakin, Kevin J. Schmidt, Christopher Phillips.
+1. [**Thesis**] [Log Engineering: Towards Systematic Log Mining to Support the Development of Ultra-large Scale Systems](https://users.encs.concordia.ca/~shang/pubs/2014_LogEngineering_TowardsSystematicLogMiningToSupportTheDevelopmentOfUltra-largeScaleSystems.pdf), by Weiyi Shang.
+1. [**IST'20**] [A Systematic Literature Review on Automated Log Abstraction Techniques](https://www.sciencedirect.com/science/article/pii/S0950584920300264), by Diana El-Masri, Fabio Petrillo, Yann-Gael Guéhéneuc, Abdelwahab Hamou-Lhadj, Anas Bouzianea.
+1. [**IEEE Software'16**] [Operational-Log Analysis for Big Data Systems: Challenges and Solutions](https://www.computer.org/csdl/magazine/so/2016/02/mso2016020052/13rRUzp02mr), by Andriy V. Miranskyy, Abdelwahab Hamou-Lhadj, Enzo Cialini, Alf Larsson [**IBM, Ericsson**].
 
 
 ### Anomaly Detection
@@ -51,6 +53,7 @@
 1. [**OSDI'18**] [REPT: Reverse Debugging of Failures in Deployed Software](https://www.usenix.org/conference/osdi18/presentation/weidong), by Weidong Cui, Xinyang Ge, Baris Kasikci, Ben Niu, Upamanyu Sharma, Ruoyu Wang, Insu Yun. [**Microsoft**]
 1. [**Ebook'17**] [The Complete Guide to Automated Root Cause Analysis](https://land.overops.com/automated-root-cause-analysis-ebook/), by Tali Soroker. [**OverOps**]
 1. [**ICSE'13**] [Assisting Developers of Big Data Analytics Applications When Deploying on Hadoop Clouds](http://www.cse.yorku.ca/~zmjiang/publications/ICSE2013_Shang.pdf), by Weiyi Shang, Zhen Ming Jiang, Hadi Hemmati, Bram Adams, Ahmed E. Hassan and Patrick Marin. [**ACM SIGSOFT Distinguished Paper Award**] 
+1. [**ICSM**] [Mining Telecom System Logs to Facilitate Debugging Tasks](https://ieeexplore.ieee.org/document/6676951), by Alf Larsson, Abdelwahab Hamou-Lhadj. [**Ericsson**]
 1. [**ASPLOS'10**] [SherLog: Error Diagnosis by Connecting Clues from Run-time Logs ](http://opera.ucsd.edu/paper/asplos10-sherlog.pdf), by Ding Yuan, Haohui Mai, Weiwei Xiong, Lin Tan, Yuanyuan Zhou and Shankar Pasupathy. 
 
 ### Failure Reproduction
@@ -89,6 +92,7 @@
 1. [**FSE'18**] [Using Finite-State Models for Log Differencing](https://www.cs.tau.ac.il/~maozs/papers/log-diff-fse18.pdf), by Hen Amar, Lingfeng Bao, Nimrod Busany, David Lo, Shahar Maoz.
 
 ### Logging Practices
+1. [**SANER'20**] [MobiLogLeak: A Preliminary Study on Data Leakage Caused by Poor Logging Practices](https://users.encs.concordia.ca/~abdelw/papers/saner20_mobilogloeak_preprint.pdf), by Rui Zhou, Mohammad Hamdaqa, Haipeng Cai, and Abdelwahab Hamou-Lhadj.
 1. [**TSE'19**] [Which Variables Should I Log?](https://xin-xia.github.io/publication/tse197.pdf), by Zhongxin Liu, Xin Xia, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li.
 1. [**ICSE'19**] [DLFinder: Characterizing and Detecting Duplicate Logging Code Smells](https://users.encs.concordia.ca/~shang/pubs/icse2019_zhenhao.pdf), by Zhenhao Li, Tse-Hsun Chen, Jinqiu Yang and Weiyi Shang.
 1. [**MSR'19**] [Tracing Back Log Data to its Log Statement: From Research to Practice](https://pure.tudelft.nl/portal/files/52060635/paper.pdf), by Daan Schipper, Mauricio Aniche, Arie van Deursen.
