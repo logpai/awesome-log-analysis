@@ -53,7 +53,7 @@
 1. [**OSDI'18**] [REPT: Reverse Debugging of Failures in Deployed Software](https://www.usenix.org/conference/osdi18/presentation/weidong), by Weidong Cui, Xinyang Ge, Baris Kasikci, Ben Niu, Upamanyu Sharma, Ruoyu Wang, Insu Yun. [**Microsoft**]
 1. [**Ebook'17**] [The Complete Guide to Automated Root Cause Analysis](https://land.overops.com/automated-root-cause-analysis-ebook/), by Tali Soroker. [**OverOps**]
 1. [**ICSE'13**] [Assisting Developers of Big Data Analytics Applications When Deploying on Hadoop Clouds](http://www.cse.yorku.ca/~zmjiang/publications/ICSE2013_Shang.pdf), by Weiyi Shang, Zhen Ming Jiang, Hadi Hemmati, Bram Adams, Ahmed E. Hassan and Patrick Marin. [**ACM SIGSOFT Distinguished Paper Award**] 
-1. [**ICSM**] [Mining Telecom System Logs to Facilitate Debugging Tasks](https://ieeexplore.ieee.org/document/6676951), by Alf Larsson, Abdelwahab Hamou-Lhadj. [**Ericsson**]
+1. [**ICSM'13**] [Mining Telecom System Logs to Facilitate Debugging Tasks](https://ieeexplore.ieee.org/document/6676951), by Alf Larsson, Abdelwahab Hamou-Lhadj. [**Ericsson**]
 1. [**ASPLOS'10**] [SherLog: Error Diagnosis by Connecting Clues from Run-time Logs ](http://opera.ucsd.edu/paper/asplos10-sherlog.pdf), by Ding Yuan, Haohui Mai, Weiwei Xiong, Lin Tan, Yuanyuan Zhou and Shankar Pasupathy. 
 
 ### Failure Reproduction
