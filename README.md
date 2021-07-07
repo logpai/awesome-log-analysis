@@ -33,6 +33,7 @@ A curated list of awesome publications and researchers on log analysis, anomaly 
 | **UK** |||||
 |  |||||
 | **Europe** |||||
+|  |||||
 | **Australia** |||||
 | [Ingo Weber](https://people.csiro.au/W/I/Ingo-Weber), CSIRO |||||
 
