@@ -115,6 +115,9 @@ Loghub
 - [ESE 2018] [An exploratory study on assessing the energy impact of logging on Android applications](https://www.eecs.yorku.ca/~zmjiang/publications/emse2017_chowdhury.pdf)
 - [ESE 2019] [Studying the characteristics of logging practices in mobile apps: a case study on F-Droid](http://link.springer.com/10.1007/s10664-019-09687-9)
 - [ICSE 2020] [Studying the Use of Java Logging Utilities in the Wild](http://www.cse.yorku.ca/~zmjiang/publications/icse2020_chen.pdf)
+- [ASE 2020] [Where Shall We Log? Studying and Suggesting Logging Locations in Code Blocks](https://petertsehsun.github.io/papers/Zhenhao_ASE20.pdf)
+- [TSE 2021] [Studying Duplicate Logging Statements and Their Relationships with Code Clones](https://petertsehsun.github.io/papers/DupLogTSE2021.pdf)
+- [ICSE 2021] [DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks](https://petertsehsun.github.io/papers/DeepLV_icse2021.pdf)
 
 
 ### Log Compression
@@ -153,6 +156,7 @@ Loghub
 - [arXiv'18] [A Directed Acyclic Graph Approach to Online Log Parsing](https://arxiv.org/abs/1806.04356)
 - [TSE'20] [Logram: Efficient Log Parsing Using n-Gram Dictionaries](https://arxiv.org/abs/2001.03038)
 - [ICSE-SEIP'19] [Tools and benchmarks for automated log parsing](https://arxiv.org/abs/1811.03509)
+- [TSE'21] [Logram: Efficient Log Parsing Using n-Gram Dictionaries](https://petertsehsun.github.io/papers/HetongTSE2020.pdf)
 
 
 
@@ -192,6 +196,7 @@ Loghub
 - [DASC/PiCom/DataCom/CyberSciTech 2018] [Detecting anomaly in big data system logs using convolutional neural network](https://ieeexplore.ieee.org/document/8511880)
 - [CCS 2019] [Log2vec: A Heterogeneous Graph Embedding Based Approach for Detecting Cyber Threats within Enterprise](https://dl.acm.org/doi/10.1145/3319535.3363224)
 - [MLCS 2018] [Recurrent Neural Network Attention Mechanisms for Interpretable System Log Anomaly Detection](https://dl.acm.org/doi/pdf/10.1145/3217871.3217872)
+- [TSE 2021][LogAssist: Assisting Log Analysis Through Log Summarization](https://petertsehsun.github.io/papers/TSE2021_LogAssist.pdf)
 
 
 #### Failure Prediction
@@ -232,6 +237,7 @@ Loghub
 - [DSN 2014] [What logs should you look at when an application fails? insights from an industrial case study](https://ieeexplore.ieee.org/document/6903626)
 - [TSE 2018] [Fault analysis and debugging of microservice systems: Industrial survey, benchmark system, and empirical study](https://ieeexplore.ieee.org/document/8580420)
 - [FSE 2019] [How bad can a bug get? an empirical analysis of software failures in the OpenStack cloud computing platform](https://dl.acm.org/doi/10.1145/3338906.3338916)
+- [TSE 2021] [Pathidea: Improving Information Retrieval-Based Bug Localization by Re-Constructing Execution Paths Using Logs](https://petertsehsun.github.io/papers/PathideaTSE2021.pdf)
 
 
 #### Others
