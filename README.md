@@ -115,6 +115,7 @@ Loghub
 - [ESE 2018] [An exploratory study on assessing the energy impact of logging on Android applications](https://www.eecs.yorku.ca/~zmjiang/publications/emse2017_chowdhury.pdf)
 - [ESE 2019] [Studying the characteristics of logging practices in mobile apps: a case study on F-Droid](http://link.springer.com/10.1007/s10664-019-09687-9)
 - [ICSE 2020] [Studying the Use of Java Logging Utilities in the Wild](http://www.cse.yorku.ca/~zmjiang/publications/icse2020_chen.pdf)
+- [EMSE 2022] [The Sense of Logging in the Linux Kernel](https://users.encs.concordia.ca/~abdelw/papers//EMSE22_LinuxLogs.pdf)
 
 
 ### Log Compression
