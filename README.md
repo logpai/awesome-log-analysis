@@ -155,6 +155,7 @@ Loghub
 - [arXiv'18] [A Directed Acyclic Graph Approach to Online Log Parsing](https://arxiv.org/abs/1806.04356)
 - [TSE'20] [Logram: Efficient Log Parsing Using n-Gram Dictionaries](https://arxiv.org/abs/2001.03038)
 - [ICSE-SEIP'19] [Tools and benchmarks for automated log parsing](https://arxiv.org/abs/1811.03509)
+- [ICSME'22] [An Effective Approach for Parsing Large Log Files](https://users.encs.concordia.ca/~abdelw/papers/ICSME2022_ULP.pdf)
 
 
 
