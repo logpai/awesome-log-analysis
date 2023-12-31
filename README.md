@@ -245,6 +245,7 @@ Loghub
 - [ASE19] [An experience report of generating load tests using log-recovered workloads at varying granularities of user behaviour](https://doi.org/10.1109/ASE.2019.00068)
 - [ASE15] [Have we seen enough traces? (T)](https://doi.org/10.1109/ASE.2015.62)
 - [ICSE08] [An approach to detecting duplicate bug reports using natural language and execution information](https://doi.org/10.1145/1368088.1368151)
+- [grayalert] [An open-source tool to detect new errors logged by centralised logging system Graylog. This tool is used in industry and can be enhanced with better logging anomaly detection algorithms.](https://github.com/grayalert/grayalert)
 
 
 ## License
